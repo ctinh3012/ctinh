@@ -1,1 +1,64 @@
 # ctinh
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>takada fc</title>
+	<link rel="stylesheet" href="siu.css">
+	<style type="text/css">
+	body,td,th {
+    color: #000000;
+}
+    </style>
+</head>
+<body>
+	<header>
+		<div class="logo">
+		 <img src="file:///C|/xamppp/htdocs/thuong/uploadsuploadstải xuốnggg.jpg" alt="logo" width="100">
+		</div>
+		<nav class="menu">
+			<ul>
+		<li><a href="#">TRANG CHỦ</a></li>
+		<li><a href="#">SẢN PHẨM</a></li>
+		<li><a href="#">LIÊN HỆ</a></li>
+			</ul>
+			</nav>
+		</header>
+		<div  class="continer">
+			<div class="col1">
+				<div class="search-bar">
+				  <form action="/search" method="get">
+						<input type="text" name="query" placeholder="tìm kiếm thành viên....">
+					<button type="submit"> Tìm kiếm</button>
+					</form>
+			  </div>
+				<h2>Bài viết hiện tại</h2>
+				<div class="post">
+					<p><img src="img/1.PNG" alt="bài viết 1" width="100"></p>
+				  <h1 style="font-size: 16px">Carbon Cao Cấp Allin Poker – Đen</h1>
+			      <p>&nbsp;</p>
+			  </div>
+				<div class="post">
+			      <p><img src="img/2.PNG" alt="bài viết 2" width="100"></p>
+			      <h1 style="font-size: 16px">Cao Cấp Cuppa Pink – Ngọn Carbon</h1>
+			      <p>&nbsp;</p>
+		      </div>
+				<div class="post">
+				  <p><img src="img/3.PNG" alt="bài viết 3" width="100"></p>
+				  <h1 style="font-size: 16px">Cơ Bida lip Preoaidr Poinos Trắng</h1>
+				  <p>&nbsp;</p>
+                </div>
+			</div>
+			<div class="col2">
+				<img src="img/1.PNG" alt="hình ảnh bài viêt " width="536">
+				<p><span style="font-size: 16px">Carbon Cao Cấp Allin Poker – Đen</span></p>
+			</div>
+</div>
+		
+	<footer>
+	  <p>Trần Chí Tình</p>
+			<p>Lớp QT22TC3.6</p>
+	</footer>
+	
+</body>
+</html>
